@@ -1,0 +1,6 @@
+streamlit
+sqlite3
+ortools
+pandas
+folium
+streamlit-folium
