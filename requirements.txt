@@ -1,6 +1,5 @@
-streamlit
-sqlite3
-ortools
-pandas
-folium
-streamlit-folium
+streamlit==1.13.0
+pandas==1.5.3
+folium==0.14.0
+streamlit-folium==0.10.0
+ortools==9.6.2534
